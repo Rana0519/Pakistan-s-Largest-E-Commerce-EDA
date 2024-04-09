@@ -2,6 +2,7 @@
 
 Unlocking E-commerce Insights: Navigating Seasonal Trends, Payment Preferences, and Product Performance in Pakistani Market
 
+[Pakistan's Largest E-Commerce Dashboard](https://public.tableau.com/views/Pak_Ecommerce/Dashboard1?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
 1.	Seasonal Variation in Sales:
 
